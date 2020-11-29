@@ -1,5 +1,7 @@
 
-[
+{
+    "conocimientos":
+ [
     {   "id": "1",
         "titulo": "React desde 0",
         "image": "https://edteam-media.s3.amazonaws.com/courses/small/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
@@ -25,3 +27,4 @@
         "profesor": "Demian"
     }
 ]
+}
